@@ -1,5 +1,5 @@
 # Sentiment Analysis
-This project gets as an input dataset of movies reviews and building an SVM model using WEKA library.
+This project uses as an input dataset of movie reviews and building an SVM model using WEKA library.
 Using this model then classifies new movie reviews as positive/negative.
 Using the gui the user can build number of models includes: SVM, Random Forest, Naive Bayes and calculate the precisions of each model using cross validation.
 
